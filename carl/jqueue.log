@@ -1,0 +1,947 @@
+08:28:08 S ** 13-Nov-86 XEXEC %1(167) in frame 1 ** user OPER **
+08:28:11 P Waiting for interlock
+08:28:12 S Given interlock
+08:28:13 P Got interlock
+08:28:13 P EXECX Job Processor %1(167) starting in frame 24
+08:28:13 S Starting job processor in frame 24
+08:28:14 S -S- run #1 Req #1  Running DSK:(PJ)PAM.HGH
+08:28:15 S -R- run #1 <0> Abort$Halt
+08:28:15 S -S- run #1 Req #2  Running DSK:(MAIL)MAILER.SAV
+08:28:20 S -R- run #1 <0> Done$End
+08:29:03 P Signing off.
+08:31:00 S ** 13-Nov-86 XEXEC %1(167) in frame 1 ** user OPER **
+08:31:03 P Waiting for interlock
+08:31:03 S Given interlock
+08:31:04 P Got interlock
+08:31:04 P EXECX Job Processor %1(167) starting in frame 12
+08:31:05 S Starting job processor in frame 12
+08:31:05 S -S- run #1 Req #1  Running DSK:(PJ)PAM.HGH
+08:31:05 S -R- run #1 <0> Abort$Halt
+08:31:06 S -S- run #1 Req #2  Running DSK:(MAIL)MAILER.SAV
+08:31:09 S -R- run #1 <0> Done$End
+09:05:01 S -S- run #1 Req #3  Running DSK:(MAIL)MAILER.SAV
+09:05:06 S -R- run #1 <0> Done$End
+10:05:00 S -S- run #1 Req #4  Running DSK:(MAIL)MAILER.SAV
+10:05:06 S -R- run #1 <0> Done$End
+11:05:03 S -S- run #1 Req #5  Running DSK:(MAIL)MAILER.SAV
+11:05:05 S -R- run #1 <0> Done$End
+12:05:06 S -S- run #1 Req #6  Running DSK:(MAIL)MAILER.SAV
+12:05:23 S -R- run #1 <0> Done$End
+13:05:05 S -S- run #1 Req #7  Running DSK:(MAIL)MAILER.SAV
+13:05:08 S -R- run #1 <0> Done$End
+14:05:01 S -S- run #1 Req #8  Running DSK:(MAIL)MAILER.SAV
+14:05:04 S -R- run #1 <0> Done$End
+15:05:02 S -S- run #1 Req #9  Running DSK:(MAIL)MAILER.SAV
+15:05:11 S -R- run #1 <0> Done$End
+17:40:35 S ** 15-Nov-86 XEXEC %1(167) in frame 4 ** user OPER **
+17:40:38 P Waiting for interlock
+17:45:35 S -S- run #1 Req #1  Running DSK:(PJ)PAM.HGH
+17:45:37 P Processor Interlock Busy (10)
+17:45:40 S -R- run #1 <0> Abort$Halt
+17:45:41 S -S- run #1 Req #10  Running DSK:(MAIL)MAILER.SAV
+17:45:43 S -R- run #1 <0> Done$End
+18:05:00 S -S- run #1 Req #11  Running DSK:(MAIL)MAILER.SAV
+18:05:02 S -R- run #1 <0> Done$End
+19:05:00 S -S- run #1 Req #12  Running DSK:(MAIL)MAILER.SAV
+19:05:02 S -R- run #1 <0> Done$End
+20:05:01 S -S- run #1 Req #13  Running DSK:(MAIL)MAILER.SAV
+20:05:03 S -R- run #1 <0> Done$End
+21:05:01 S -S- run #1 Req #14  Running DSK:(MAIL)MAILER.SAV
+21:05:03 S -R- run #1 <0> Done$End
+22:05:01 S -S- run #1 Req #15  Running DSK:(MAIL)MAILER.SAV
+22:05:03 S -R- run #1 <0> Done$End
+23:05:01 S -S- run #1 Req #16  Running DSK:(MAIL)MAILER.SAV
+23:05:03 S -R- run #1 <0> Done$End
+05:40:25 S ** 16-Nov-86 XEXEC %1(167) in frame 4 ** user OPER **
+ Running DSK:(MAIL)MAILER.SAV
+05:40:27 P Waiting for interlock
+05:45:25 S -S- run #1 Req #19  Running DSK:(MAIL)MAILER.SAV
+05:45:27 P Processor Interlock Busy (10)
+05:45:28 S -R- run #1 <0> Done$End
+06:05:00 S -S- run #1 Req #20  Running DSK:(MAIL)MAILER.SAV
+06:05:03 S -R- run #1 <0> Done$End
+07:05:00 S -S- run #1 Req #21  Running DSK:(MAIL)MAILER.SAV
+07:05:02 S -R- run #1 <0> Done$End
+08:05:00 S -S- run #1 Req #22  Running DSK:(MAIL)MAILER.SAV
+08:05:02 S -R- run #1 <0> Done$End
+09:05:00 S -S- run #1 Req #23  Running DSK:(MAIL)MAILER.SAV
+09:05:02 S -R- run #1 <0> Done$End
+10:05:00 S -S- run #1 Req #24  Running DSK:(MAIL)MAILER.SAV
+10:05:02 S -R- run #1 <0> Done$End
+11:05:00 S -S- run #1 Req #25  Running DSK:(MAIL)MAILER.SAV
+11:05:01 S -R- run #1 <0> Done$End
+12:05:00 S -S- run #1 Req #26  Running DSK:(MAIL)MAILER.SAV
+12:05:01 S -R- run #1 <0> Done$End
+13:05:00 S -S- run #1 Req #27  Running DSK:(MAIL)MAILER.SAV
+13:05:02 S -R- run #1 <0> Done$End
+14:05:00 S -S- run #1 Req #28  Running DSK:(MAIL)MAILER.SAV
+14:05:02 S -R- run #1 <0> Done$End
+15:05:00 S -S- run #1 Req #29  Running DSK:(MAIL)MAILER.SAV
+15:05:01 S -R- run #1 <0> Done$End
+16:05:00 S -S- run #1 Req #30  Running DSK:(MAIL)MAILER.SAV
+16:05:02 S -R- run #1 <0> Done$End
+17:05:00 S -S- run #1 Req #31  Running DSK:(MAIL)MAILER.SAV
+17:05:02 S -R- run #1 <0> Done$End
+18:05:00 S -S- run #1 Req #32  Running DSK:(MAIL)MAILER.SAV
+18:05:02 S -R- run #1 <0> Done$End
+19:05:00 S -S- run #1 Req #33  Running DSK:(MAIL)MAILER.SAV
+19:05:02 S -R- run #1 <0> Done$End
+20:05:04 S -S- run #1 Req #34  Running DSK:(MAIL)MAILER.SAV
+20:05:07 S -R- run #1 <0> Done$End
+21:05:04 S -S- run #1 Req #35  Running DSK:(MAIL)MAILER.SAV
+21:05:05 S -R- run #1 <0> Done$End
+22:05:04 S -S- run #1 Req #36  Running DSK:(MAIL)MAILER.SAV
+22:05:06 S -R- run #1 <0> Done$End
+23:05:04 S -S- run #1 Req #37  Running DSK:(MAIL)MAILER.SAV
+23:05:06 S -R- run #1 <0> Done$End
+00:05:00 S -S- run #1 Req #38  Running DSK:(MAIL)MAILER.SAV
+00:05:02 S -R- run #1 <0> Done$End
+01:05:01 S -S- run #1 Req #39  Running DSK:(MAIL)MAILER.SAV
+01:05:03 S -R- run #1 <0> Done$End
+02:05:02 S -S- run #1 Req #40  Running DSK:(MAIL)MAILER.SAV
+02:05:05 S -R- run #1 <0> Done$End
+03:05:03 S -S- run #1 Req #41  Running DSK:(MAIL)MAILER.SAV
+03:05:09 S -R- run #1 <0> Done$End
+04:05:03 S -S- run #1 Req #42  Running DSK:(MAIL)MAILER.SAV
+04:05:05 S -R- run #1 <0> Done$End
+05:05:03 S -S- run #1 Req #43  Running DSK:(MAIL)MAILER.SAV
+07:05:03 S -S- run #1 Req #45  Running DSK:(MAIL)MAILER.SAV
+ #44  Running DSK:(MAIL)MAILER.SAV
+07:05:05 S -R- run #1 <0> Done$End
+08:05:03 S -S- run #1 Req #46  Running DSK:(MAIL)MAILER.SAV
+08:05:06 S -R- run #1 <0> Done$End
+09:05:05 S -S- run #1 Req #47  Running DSK:(MAIL)MAILER.SAV
+09:05:09 S -R- run #1 <0> Done$End
+10:05:03 S -S- run #1 Req #48  Running DSK:(MAIL)MAILER.SAV
+10:05:09 S -R- run #1 <0> Done$End
+11:05:04 S -S- run #1 Req #49  Running DSK:(MAIL)MAILER.SAV
+11:05:09 S -R- run #1 <0> Done$End
+12:05:00 S -S- run #1 Req #50  Running DSK:(MAIL)MAILER.SAV
+12:05:11 S -R- run #1 <0> Done$End
+13:05:02 S -S- run #1 Req #51  Running DSK:(MAIL)MAILER.SAV
+13:05:14 S -R- run #1 <0> Done$End
+14:05:04 S -S- run #1 Req #52  Running DSK:(MAIL)MAILER.SAV
+14:05:07 S -R- run #1 <0> Done$End
+15:05:05 S -S- run #1 Req #53  Running DSK:(MAIL)MAILER.SAV
+15:05:07 S -R- run #1 <0> Done$End
+16:05:00 S -S- run #1 Req #54  Running DSK:(MAIL)MAILER.SAV
+16:05:02 S -R- run #1 <0> Done$End
+17:05:00 S -S- run #1 Req #55  Running DSK:(MAIL)MAILER.SAV
+17:05:04 S -R- run #1 <0> Done$End
+18:05:00 S -S- run #1 Req #56  Running DSK:(MAIL)MAILER.SAV
+18:05:04 S -R- run #1 <0> Done$End
+19:05:01 S -S- run #1 Req #57  Running DSK:(MAIL)MAILER.SAV
+19:05:05 S -R- run #1 <0> Done$End
+20:05:04 S -S- run #1 Req #58  Running DSK:(MAIL)MAILER.SAV
+20:05:07 S -R- run #1 <0> Done$End
+21:05:04 S -S- run #1 Req #59  Running DSK:(MAIL)MAILER.SAV
+21:05:07 S -R- run #1 <0> Done$End
+22:05:04 S -S- run #1 Req #60  Running DSK:(MAIL)MAILER.SAV
+22:05:07 S -R- run #1 <0> Done$End
+23:05:03 S -S- run #1 Req #61  Running DSK:(MAIL)MAILER.SAV
+23:05:07 S -R- run #1 <0> Done$End
+00:05:04 S -S- run #1 Req #62  Running DSK:(MAIL)MAILER.SAV
+00:05:09 S -R- run #1 <0> Done$End
+01:05:04 S -S- run #1 Req #63  Running DSK:(MAIL)MAILER.SAV
+01:05:08 S -R- run #1 <0> Done$End
+02:05:00 S -S- run #1 Req #64  Running DSK:(MAIL)MAILER.SAV
+02:05:04 S -R- run #1 <0> Done$End
+03:05:05 S -S- run #1 Req #65  Running DSK:(MAIL)MAILER.SAV
+03:05:07 S -R- run #1 <0> Done$End
+04:05:01 S -S- run #1 Req #66  Running DSK:(MAIL)MAILER.SAV
+04:05:04 S -R- run #1 <0> Done$End
+05:05:00 S -S- run #1 Req #67  Running DSK:(MAIL)MAILER.SAV
+05:05:04 S -R- run #1 <0> Done$End
+06:05:01 S -S- run #1 Req #68  Running DSK:(MAIL)MAILER.SAV
+06:05:05 S -R- run #1 <0> Done$End
+07:05:01 S -S- run #1 Req #69  Running DSK:(MAIL)MAILER.SAV
+07:05:07 S -R- run #1 <0> Done$End
+08:05:01 S -S- run #1 Req #70  Running DSK:(MAIL)MAILER.SAV
+08:05:04 S -R- run #1 <0> Done$End
+11:05:01 S -S- run #1 Req #73  Running DSK:(MAIL)MAILER.SAV
+ #72  Running DSK:(MAIL)MAILER.SAV
+11:05:03 S -R- run #1 <0> Done$End
+12:05:03 S -S- run #1 Req #74  Running DSK:(MAIL)MAILER.SAV
+12:05:16 S -R- run #1 <0> Done$End
+13:05:05 S -S- run #1 Req #75  Running DSK:(MAIL)MAILER.SAV
+13:05:08 S -R- run #1 <0> Done$End
+14:05:02 S -S- run #1 Req #76  Running DSK:(MAIL)MAILER.SAV
+14:05:06 S -R- run #1 <0> Done$End
+15:05:01 S -S- run #1 Req #77  Running DSK:(MAIL)MAILER.SAV
+15:05:04 S -R- run #1 <0> Done$End
+16:05:02 S -S- run #1 Req #78  Running DSK:(MAIL)MAILER.SAV
+16:05:06 S -R- run #1 <0> Done$End
+17:05:01 S -S- run #1 Req #79  Running DSK:(MAIL)MAILER.SAV
+17:05:03 S -R- run #1 <0> Done$End
+18:05:00 S -S- run #1 Req #80  Running DSK:(MAIL)MAILER.SAV
+18:05:02 S -R- run #1 <0> Done$End
+19:05:04 S -S- run #1 Req #81  Running DSK:(MAIL)MAILER.SAV
+19:05:06 S -R- run #1 <0> Done$End
+20:05:02 S -S- run #1 Req #82  Running DSK:(MAIL)MAILER.SAV
+20:05:05 S -R- run #1 <0> Done$End
+21:05:01 S -S- run #1 Req #83  Running DSK:(MAIL)MAILER.SAV
+21:05:02 S -R- run #1 <0> Done$End
+22:05:01 S -S- run #1 Req #84  Running DSK:(MAIL)MAILER.SAV
+22:05:05 S -R- run #1 <0> Done$End
+23:05:03 S -S- run #1 Req #85  Running DSK:(MAIL)MAILER.SAV
+23:05:09 S -R- run #1 <0> Done$End
+00:05:01 S -S- run #1 Req #86  Running DSK:(MAIL)MAILER.SAV
+00:05:03 S -R- run #1 <0> Done$End
+01:05:04 S -S- run #1 Req #87  Running DSK:(MAIL)MAILER.SAV
+01:05:07 S -R- run #1 <0> Done$End
+02:05:04 S -S- run #1 Req #88  Running DSK:(MAIL)MAILER.SAV
+02:05:06 S -R- run #1 <0> Done$End
+03:05:03 S -S- run #1 Req #89  Running DSK:(MAIL)MAILER.SAV
+03:05:04 S -R- run #1 <0> Done$End
+04:05:04 S -S- run #1 Req #90  Running DSK:(MAIL)MAILER.SAV
+04:05:06 S -R- run #1 <0> Done$End
+05:05:04 S -S- run #1 Req #91  Running DSK:(MAIL)MAILER.SAV
+05:05:06 S -R- run #1 <0> Done$End
+06:03:22 S Signing off.
+06:08:02 S ** 19-Nov-86 XEXEC %1(172) in frame 4 ** user OPER **
+06:08:05 P Waiting for interlock
+06:08:05 S Given interlock
+06:08:06 P Got interlock
+06:08:06 P EXECX Job Processor %1(174) starting in frame 5
+06:08:07 S Starting job processor in frame 5
+06:08:07 S -S- run #1 job 21 Req #1  Running DSK:(PJ)PAM.HGH
+06:08:12 S -S- run #2 job 25 Req #2  Running DSK:(MAIL)MAILER.SAV
+06:08:16 S -R- run #2 job 25 <0> Done$End
+07:05:02 S -S- run #2 job 26 Req #3  Running DSK:(MAIL)MAILER.SAV
+07:05:04 S -R- run #2 job 26 <0> Done$End
+08:05:04 S -S- run #2 job 27 Req #4  Running DSK:(MAIL)MAILER.SAV
+08:05:08 S -R- run #2 job 27 <0> Done$End
+11:05:01 S -S- run #2 job 18 Req #7  Running DSK:(MAIL)MAILER.SAV
+b 3 Req #6  Running DSK:(MAIL)MAILER.SAV
+11:05:04 S -R- run #2 job 18 <0> Done$End
+12:05:03 S -S- run #2 job 22 Req #8  Running DSK:(MAIL)MAILER.SAV
+12:05:17 S -R- run #2 job 22 <0> Done$End
+13:05:01 S -S- run #2 job 29 Req #9  Running DSK:(MAIL)MAILER.SAV
+13:05:03 S -R- run #2 job 29 <0> Done$End
+14:05:01 S -S- run #2 job 23 Req #10  Running DSK:(MAIL)MAILER.SAV
+14:05:03 S -R- run #2 job 23 <0> Done$End
+15:05:03 S -S- run #2 job 38 Req #11  Running DSK:(MAIL)MAILER.SAV
+15:05:08 S -R- run #2 job 38 <0> Done$End
+16:05:01 S -S- run #2 job 43 Req #12  Running DSK:(MAIL)MAILER.SAV
+16:05:03 S -R- run #2 job 43 <0> Done$End
+17:05:01 S -S- run #2 job 23 Req #13  Running DSK:(MAIL)MAILER.SAV
+17:05:02 S -R- run #2 job 23 <0> Done$End
+18:05:01 S -S- run #2 job 10 Req #14  Running DSK:(MAIL)MAILER.SAV
+18:05:03 S -R- run #2 job 10 <0> Done$End
+19:05:01 S -S- run #2 job 33 Req #15  Running DSK:(MAIL)MAILER.SAV
+19:05:02 S -R- run #2 job 33 <0> Done$End
+20:05:02 S -S- run #2 job 13 Req #16  Running DSK:(MAIL)MAILER.SAV
+20:05:03 S -R- run #2 job 13 <0> Done$End
+20:26:17 S -S- stream #1 Req #28 DSK:(CNFE)ATL.PND
+20:26:22 P Stream #1 Req #28 DSK:(CNFE)ATL.PND
+20:27:04 P Stream #1 Req #28 * completed *
+20:27:07 S -R- stream #1 <0> Done$End
+20:35:55 S -S- stream #1 Req #29 DSK:(CNFE)ATL.PND
+20:36:01 P Stream #1 Req #29 DSK:(CNFE)ATL.PND
+20:36:58 P Stream #1 Req #29 * completed *
+20:37:00 S -R- stream #1 <0> Done$End
+20:43:34 S -S- stream #1 Req #30 DSK:(CNFE)TEST1=DSK:(CNFE)ATL.PND
+20:43:39 P Stream #1 Req #30 DSK:(CNFE)TEST1=DSK:(CNFE)ATL.PND
+20:44:19 P Stream #1 Req #30 * completed *
+20:44:23 S -R- stream #1 <0> Done$End
+20:46:59 S -S- stream #1 Req #31 DSK:(CNFE)TEST1=DSK:(CNFE)ATL.PND
+20:47:04 P Stream #1 Req #31 DSK:(CNFE)TEST1=DSK:(CNFE)ATL.PND
+20:47:28 P Stream #1 Req #31 * completed *
+20:47:29 S -R- stream #1 <0> Done$End
+20:52:14 S -S- stream #1 Req #32 DSK:(CNFE)TEST1=DSK:(CNFE)ATL.PND
+20:52:20 P Stream #1 Req #32 DSK:(CNFE)TEST1=DSK:(CNFE)ATL.PND
+20:52:44 P Stream #1 Req #32 * completed *
+20:11:07 S ** 20-Nov-86 XEXEC %1(172) in frame 46 ** user OPER **
+20:11:07 S run #1 job 21 grafted.
+20:11:08 S Job processor says frame 5
+20:11:08 P Stream #1 Req #32 * completed *
+20:11:17 P Waiting for interlock
+20:16:13 S -R- stream #1 <0> Done$End
+20:16:13 S -S- run #2 job 4 Req #1  Running DSK:(PJ)PAM.HGH
+20:16:14 S -R- run #2 job 4 <0> Done$End
+20:16:15 S -S- run #2 job 4 Req #27  Running DSK:(MAIL)MAILER.SAV
+20:16:23 P Stream #1 Req #20 DSK:(MURADMIN)MURST4.OUT=DSK:(MURADMIN)MURST4.CMD
+MURADMIN)MURST4.OUT=DSK:(MURADMIN)MURST4.CMD
+20:16:26 S -S- stream #2 Req #24 DSK:(MURADMIN)MAINT0.OUT=DSK:(MURADMIN)MAINT0.CMD
+20:16:30 P Stream #2 Req #24 DSK:(MURADMIN)MAINT0.OUT=DSK:(MURADMIN)MAINT0.CMD
+20:16:31 P Stream #2 Req #24 * aborted - :ERROR in job at line 1 *
+20:16:31 S -R- stream #2 <0> Done$Error
+20:16:32 S -S- stream #2 Req #37 DSK:(MURADMIN)MURST3.OUT=DSK:(MURADMIN)MURST3.CMD
+20:16:33 P Stream #2 Req #37 DSK:(MURADMIN)MURST3.OUT=DSK:(MURADMIN)MURST3.CMD
+20:16:39 S Signing off.
+20:18:31 S ** 20-Nov-86 XEXEC %1(172) in frame 21 ** user OPER **
+20:18:31 S *** Aborting run #1 job 21
+20:18:32 S -R- run #1 job 21 <2> Proc$Run
+20:18:32 S Job processor says frame 44
+20:18:33 P Stream #1 Req #20 * completed *
+20:18:34 P Stream #2 Req #37 * completed *
+20:18:38 P Waiting for interlock
+20:18:39 S Given interlock
+20:23:38 P Processor Interlock Busy (10)
+20:23:39 S -R- stream #1 <0> Done$End
+20:23:39 S -R- stream #2 <0> Done$End
+20:24:29 S Signing off.
+20:24:29 P Signing off.
+20:25:46 S ** 20-Nov-86 XEXEC %1(172) in frame 40 ** user OPER **
+20:25:48 P Waiting for interlock
+20:25:48 S Given interlock
+20:25:49 P Got interlock
+20:25:49 P EXECX Job Processor %1(174) starting in frame 5
+20:25:49 S Starting job processor in frame 5
+20:36:00 S -S- stream #1 Req #49 DSK:(DCSOPEN)SCOTT.LOG=DSK:(DCSOPEN)SCOTT
+20:36:06 P Stream #1 Req #49 DSK:(DCSOPEN)SCOTT.LOG=DSK:(DCSOPEN)SCOTT
+20:39:35 S -R- stream #1 <0> Done$End
+20:39:36 P Stream #1 Req #49 * completed *
+21:05:05 S -S- run #1 job 31 Req #46  Running DSK:(MAIL)MAILER.SAV
+21:05:10 S -R- run #1 job 31 <0> Done$End
+21:30:04 S -S- stream #1 Req #50 DSK:(MURADMIN)MURST3.OUT=DSK:(MURADMIN)MURST3.CMD
+21:30:10 P Stream #1 Req #50 DSK:(MURADMIN)MURST3.OUT=DSK:(MURADMIN)MURST3.CMD
+21:43:09 P Stream #1 Req #50 * aborted - :STOP at line 28 *
+21:43:10 S -R- stream #1 <0> Done$Stop
+22:05:05 S -S- run #1 job 33 Req #51  Running DSK:(MAIL)MAILER.SAV
+22:05:08 S -R- run #1 job 33 <0> Done$End
+22:34:04 S -S- stream #1 Req #53 DSK:(MURADMIN)MAINT0.OUT=DSK:(MURADMIN)MAINT0.CMD
+22:34:09 P Stream #1 Req #53 DSK:(MURADMIN)MAINT0.OUT=DSK:(MURADMIN)MAINT0.CMD
+22:34:44 P Stream #1 Req #53 * aborted - lost command port at line 34 *
+22:34:45 S -R- stream #1 <0> Abort$Zap
+23:22:37 P Signing off.
+23:23:47 S ** 20-Nov-86 XEXEC %1(172) in frame 17 ** user OPER **
+23:23:49 P Waiting for interlock
+23:23:50 S Given interlock
+23:23:50 P Got interlock
+23:23:50 P EXECX Job Processor %1(174) starting in frame 5
+23:23:53 S -R- run #1 job 22 <0> Done$End
+ng DSK:(MAIL)MAILER.SAV
+00:05:01 S -S- run #1 job 13 Req #65  Running DSK:(MAIL)MAILER.SAV
+00:05:03 S -R- run #1 job 13 <0> Done$End
+01:05:03 S -S- run #1 job 23 Req #66  Running DSK:(MAIL)MAILER.SAV
+01:05:06 S -R- run #1 job 23 <0> Done$End
+02:05:02 S -S- run #1 job 22 Req #67  Running DSK:(MAIL)MAILER.SAV
+02:05:07 S -R- run #1 job 22 <0> Done$End
+03:05:03 S -S- run #1 job 25 Req #68  Running DSK:(MAIL)MAILER.SAV
+03:05:09 S run #1 job 25 spurious ECF-LCF:2 0
+03:07:28 S run #1 job 25 Uid 4412 neq 4414 sts=440244400000 que=300000000104
+03:07:28 S -R- run #1 job 25 <0> Done$End
+04:05:04 S -S- run #1 job 33 Req #69  Running DSK:(MAIL)MAILER.SAV
+04:05:13 S run #1 job 33 spurious ECF-LCF:2 0
+04:05:19 S run #1 job 33 Uid 4481 neq 4484 sts=40004400000 que=300000000105
+04:05:20 S -R- run #1 job 33 <0> Done$End
+05:05:04 S -S- run #1 job 22 Req #70  Running DSK:(MAIL)MAILER.SAV
+05:05:07 S -R- run #1 job 22 <0> Done$End
+06:00:03 S -S- stream #1 Req #62 DSK:(MURADMIN)MAINT0.OUT=DSK:(MURADMIN)MAINT0.CMD
+06:00:09 P Stream #1 Req #62 DSK:(MURADMIN)MAINT0.OUT=DSK:(MURADMIN)MAINT0.CMD
+06:00:42 P Stream #1 Req #62 * aborted - lost command port at line 6 *
+06:00:44 S -R- stream #1 <0> Abort$Zap
+06:05:03 S -S- run #1 job 14 Req #71  Running DSK:(MAIL)MAILER.SAV
+06:05:06 S -R- run #1 job 14 <0> Done$End
+07:00:03 S -S- stream #1 Req #57 DSK:(MURADMIN)MURST4.OUT=DSK:(MURADMIN)MURST4.CMD
+07:00:03 P Stream #1 Req #57 DSK:(MURADMIN)MURST4.OUT=DSK:(MURADMIN)MURST4.CMD
+07:05:03 S -S- run #1 job 16 Req #72  Running DSK:(MAIL)MAILER.SAV
+07:05:06 S -R- run #1 job 16 <0> Done$End
+07:10:42 P Stream #1 Req #57 * completed *
+07:10:44 S -R- stream #1 <0> Done$End
+08:05:03 S -S- run #1 job 16 Req #73  Running DSK:(MAIL)MAILER.SAV
+08:05:05 S -R- run #1 job 16 <0> Done$End
+09:05:05 S -S- run #1 job 4 Req #75  Running DSK:(MAIL)MAILER.SAV
+09:05:09 S -R- run #1 job 4 <0> Done$End
+10:05:04 S -S- run #1 job 14 Req #76  Running DSK:(MAIL)MAILER.SAV
+10:05:07 S -R- run #1 job 14 <0> Done$End
+11:05:03 S -S- run #1 job 4 Req #77  Running DSK:(MAIL)MAILER.SAV
+11:05:06 S -R- run #1 job 4 <0> Done$End
+12:05:03 S -S- run #1 job 27 Req #78  Running DSK:(MAIL)MAILER.SAV
+12:05:11 S -R- run #1 job 27 <0> Done$End
+12:45:01 S -S- stream #1 Req #80 DSK:(H8ACT)SUBBAT.OUT=DSK:(H8ACT)SUBBAT.BIL
+12:45:02 P Stream #1 Req #80 DSK:(H8ACT)SUBBAT.OUT=DSK:(H8ACT)SUBBAT.BIL
+12:46:10 P Stream #1 Req #80 * completed *
+12:46:14 S -R- stream #1 <0> Done$End
+13:00:09 P Stream #1 Req #81 DSK:(H8ACT)SUBBAT.OUT=DSK:(H8ACT)SUBBAT.BIL
+13:00:54 S -R- stream #1 <0> Done$End
+d *
+13:05:04 S -S- run #1 job 14 Req #79  Running DSK:(MAIL)MAILER.SAV
+13:05:07 S -R- run #1 job 14 <0> Done$End
+14:05:01 S -S- run #1 job 30 Req #82  Running DSK:(MAIL)MAILER.SAV
+14:05:06 S -R- run #1 job 30 <0> Done$End
+15:05:05 S -S- run #1 job 21 Req #83  Running DSK:(MAIL)MAILER.SAV
+15:05:09 S -R- run #1 job 21 <0> Done$End
+16:05:01 S -S- run #1 job 16 Req #85  Running DSK:(MAIL)MAILER.SAV
+16:05:-R- run #1 job 16 <0> Done$End
+17:00:01 S -S- stream #1 Req #90 DSK:(CHAPMAN)NEWOUT=DSK:(CHAPMAN)NEWCOM
+17:00:06 P Stream #1 Req #90 DSK:(CHAPMAN)NEWOUT=DSK:(CHAPMAN)NEWCOM
+17:00:06 P Stream #1 Req #90 * aborted - :ERROR in job at line 1 *
+17:00:11 S -R- stream #1 <0> Done$Error
+17:05:00 S -S- run #1 job 16 Req #89  Running DSK:(MAIL)MAILER.SAV
+17:05:04 S -R- run #1 job 16 <0> Done$End
+17:55:02 S -S- stream #1 Req #92 DSK:(CHAPMAN)KENCOM.OUT=DSK:(CHAPMAN)KENCOM
+17:55:06 P Stream #1 Req #92 DSK:(CHAPMAN)KENCOM.OUT=DSK:(CHAPMAN)KENCOM
+17:55:35 P Stream #1 Req #92 * aborted - lost command port at line 6 *
+17:55:35 S -R- stream #1 <0> Abort$Zap
+18:01:00 S -S- stream #1 Req #94 DSK:(CHAPMAN)KENCOM.OUT=DSK:(CHAPMAN)KENCOM
+18:01:01 P Stream #1 Req #94 DSK:(CHAPMAN)KENCOM.OUT=DSK:(CHAPMAN)KENCOM
+18:01:32 P Stream #1 Req #94 * completed *
+18:01:35 S -R- stream #1 <0> Done$End
+18:05:02 S -S- run #1 job 30 Req #91  Running DSK:(MAIL)MAILER.SAV
+18:05:04 S -R- run #1 job 30 <0> Done$End
+19:05:01 S -S- run #1 job 22 Req #95  Running DSK:(MAIL)MAILER.SAV
+19:05:04 S -R- run #1 job 22 <0> Done$End
+19:13:01 S -S- stream #1 Req #99 DSK:(MURADMIN)MAINT0.OUT=DSK:(MURADMIN)MAINT0.CMD
+19:13:06 P Stream #1 Req #99 DSK:(MURADMIN)MAINT0.OUT=DSK:(MURADMIN)MAINT0.CMD
+19:13:59 P Stream #1 Req #99 * completed *
+19:14:00 S -R- stream #1 <0> Done$End
+19:17:20 S -S- stream #1 Req #62 DSK:(MURADMIN)MAINT0.OUT=DSK:(MURADMIN)MAINT0.CMD
+19:17:25 P Stream #1 Req #62 DSK:(MURADMIN)MAINT0.OUT=DSK:(MURADMIN)MAINT0.CMD
+19:18:11 P Stream #1 Req #62 * completed *
+19:18:11 S -R- stream #1 <0> Done$End
+19:20:45 S -S- stream #1 Req #101 DSK:(MURADMIN)MAINT1.OUT=DSK:(MURADMIN)MAINT1.CMD
+19:20:50 P Stream #1 Req #101 DSK:(MURADMIN)MAINT1.OUT=DSK:(MURADMIN)MAINT1.CMD
+19:21:41 S -S- stream #2 Req #102 DSK:(MURADMIN)MAINT2.OUT=DSK:(MURADMIN)MAINT2.CMD
+19:21:41 P Stream #1 Req #101 * completed *
+19:21:42 P Stream #2 Req #102 DSK:(MURADMIN)MAINT2.OUT=DSK:(MURADMIN)MAINT2.CMD
+19:21:46 S -R- stream #1 <0> Done$End
+19:30:03 S -S- stream #1 Req #97 DSK:(CHAPMAN)NEWOUT=DSK:(CHAPMAN)NEWCOM
+19:30:17 P Stream #2 Req #102 * completed *
+)NEWOUT=DSK:(CHAPMAN)NEWCOM
+19:30:21 S -R- stream #2 <0> Done$End
+19:30:59 P Stream #1 Req #97 * completed *
+19:31:03 S -R- stream #1 <0> Done$End
+20:05:03 S -S- run #1 job 22 Req #98  Running DSK:(MAIL)MAILER.SAV
+20:05:05 S -R- run #1 job 22 <0> Done$End
+21:05:03 S -S- run #1 job 36 Req #103  Running DSK:(MAIL)MAILER.SAV
+21:05:05 S -R- run #1 job 36 <0> Done$End
+22:05:02 S -S- run #1 job 25 Req #104  Running DSK:(MAIL)MAILER.SAV
+22:05:06 S run #1 job 25 spurious ECF-LCF:2 0
+22:05:32 S run #1 job 25 Uid 5463 neq 5465 sts=40004400000 que=300000000150
+22:05:33 S -R- run #1 job 25 <0> Done$End
+23:05:02 S -S- run #1 job 21 Req #106  Running DSK:(MAIL)MAILER.SAV
+23:05:06 S -R- run #1 job 21 <0> Done$End
+00:05:03 S -S- run #1 job 14 Req #107  Running DSK:(MAIL)MAILER.SAV
+00:05:05 S -R- run #1 job 14 <0> Done$End
+01:05:03 S -S- run #1 job 14 Req #108  Running DSK:(MAIL)MAILER.SAV
+01:05:07 S -R- run #1 job 14 <0> Done$End
+02:05:03 S -S- run #1 job 9 Req #109  Running DSK:(MAIL)MAILER.SAV
+02:05:05 S -R- run #1 job 9 <0> Done$End
+03:05:04 S -S- run #1 job 16 Req #110  Running DSK:(MAIL)MAILER.SAV
+03:05:06 S -R- run #1 job 16 <0> Done$End
+04:05:04 S -S- run #1 job 9 Req #111  Running DSK:(MAIL)MAILER.SAV
+04:05:07 S -R- run #1 job 9 <0> Done$End
+05:05:04 S -S- run #1 job 24 Req #112  Running DSK:(MAIL)MAILER.SAV
+05:05:05 S -R- run #1 job 24 <0> Done$End
+06:00:04 S -S- stream #1 Req #100 DSK:(MURADMIN)MAINT0.OUT=DSK:(MURADMIN)MAINT0.CMD
+06:00:10 P Stream #1 Req #100 DSK:(MURADMIN)MAINT0.OUT=DSK:(MURADMIN)MAINT0.CMD
+06:00:10 S -S- stream #2 Req #87 DSK:(DCSOPEN)PRGARC.LOG=DSK:(DCSOPEN)PURGE1.ARC
+06:00:10 P Stream #2 Req #87 DSK:(DCSOPEN)PRGARC.LOG=DSK:(DCSOPEN)PURGE1.ARC
+06:01:01 P Stream #1 Req #100 * completed *
+06:01:05 S -R- stream #1 <0> Done$End
+06:05:03 S -S- run #1 job 16 Req #113  Running DSK:(MAIL)MAILER.SAV
+06:05:07 S -R- run #1 job 16 <0> Done$End
+06:16:25 P Stream #2 Req #87 * completed *
+06:16:28 S -R- stream #2 <0> Done$End
+06:30:04 S -S- stream #1 Req #88 DSK:(DCSOPEN)PRGCNC.LOG=DSK:(DCSOPEN)PURGE3.CNC
+06:30:09 P Stream #1 Req #88 DSK:(DCSOPEN)PRGCNC.LOG=DSK:(DCSOPEN)PURGE3.CNC
+06:35:19 P Stream #1 Req #88 * completed *
+06:35:23 S -R- stream #1 <0> Done$End
+07:00:03 S -S- stream #1 Req #58 DSK:(MURADMIN)MURST5.OUT=DSK:(MURADMIN)MURST5.CMD
+07:00:08 P Stream #1 Req #58 DSK:(MURADMIN)MURST5.OUT=DSK:(MURADMIN)MURST5.CMD
+07:00:08 S -S- stream #2 Req #86 DSK:(DCSOPEN)PRGWAX.LOG=DSK:(DCSOPEN)PURGE2.WAX
+07:05:04 S -S- run #1 job 24 Req #115  Running DSK:(MAIL)MAILER.SAV
+GE2.WAX
+07:05:10 S -R- run #1 job 24 <0> Done$End
+07:15:56 S -R- stream #1 <0> Done$End
+07:15:56 P Stream #1 Req #58 * completed *
+07:25:22 P Stream #2 Req #86 * completed *
+07:25:23 S -R- stream #2 <0> Done$End
+08:05:00 S -S- run #1 job 13 Req #116  Running DSK:(MAIL)MAILER.SAV
+08:05:04 S -R- run #1 job 13 <0> Done$End
+09:05:02 S -S- run #1 job 8 Req #118  Running DSK:(MAIL)MAILER.SAV
+09:05:04 S -R- run #1 job 8 <0> Done$End
+10:05:02 S -S- run #1 job 13 Req #119  Running DSK:(MAIL)MAILER.SAV
+10:05:04 S -R- run #1 job 13 <0> Done$End
+11:05:02 S -S- run #1 job 13 Req #120  Running DSK:(MAIL)MAILER.SAV
+11:05:04 S -R- run #1 job 13 <0> Done$End
+12:05:02 S -S- run #1 job 13 Req #121  Running DSK:(MAIL)MAILER.SAV
+12:05:04 S -R- run #1 job 13 <0> Done$End
+13:05:02 S -S- run #1 job 13 Req #122  Running DSK:(MAIL)MAILER.SAV
+13:05:04 S -R- run #1 job 13 <0> Done$End
+14:05:02 S -S- run #1 job 11 Req #123  Running DSK:(MAIL)MAILER.SAV
+14:05:04 S -R- run #1 job 11 <0> Done$End
+15:05:02 S -S- run #1 job 16 Req #124  Running DSK:(MAIL)MAILER.SAV
+15:05:04 S -R- run #1 job 16 <0> Done$End
+16:05:02 S -S- run #1 job 13 Req #125  Running DSK:(MAIL)MAILER.SAV
+16:05:04 S -R- run #1 job 13 <0> Done$End
+17:05:02 S -S- run #1 job 18 Req #126  Running DSK:(MAIL)MAILER.SAV
+17:05:04 S -R- run #1 job 18 <0> Done$End
+18:05:02 S -S- run #1 job 18 Req #127  Running DSK:(MAIL)MAILER.SAV
+18:05:04 S -R- run #1 job 18 <0> Done$End
+19:05:02 S -S- run #1 job 4 Req #128  Running DSK:(MAIL)MAILER.SAV
+19:05:04 S -R- run #1 job 4 <0> Done$End
+20:05:03 S -S- run #1 job 4 Req #129  Running DSK:(MAIL)MAILER.SAV
+20:05:05 S -R- run #1 job 4 <0> Done$End
+21:05:03 S -S- run #1 job 4 Req #130  Running DSK:(MAIL)MAILER.SAV
+21:05:05 S -R- run #1 job 4 <0> Done$End
+22:05:03 S -S- run #1 job 16 Req #131  Running DSK:(MAIL)MAILER.SAV
+22:05:05 S -R- run #1 job 16 <0> Done$End
+23:05:03 S -S- run #1 job 11 Req #132  Running DSK:(MAIL)MAILER.SAV
+23:05:05 S -R- run #1 job 11 <0> Done$End
+00:05:04 S -S- run #1 job 11 Req #133  Running DSK:(MAIL)MAILER.SAV
+00:05:06 S -R- run #1 job 11 <0> Done$End
+01:05:04 S -S- run #1 job 18 Req #134  Running DSK:(MAIL)MAILER.SAV
+01:05:06 S -R- run #1 job 18 <0> Done$End
+01:59:55 P Signing off.
+02:00:04 S Signing off.
+02:33:10 S ** 23-Nov-86 XEXEC %1(172) in frame 4 ** user OPER **
+02:33:13 P Waiting for interlock
+02:38:10 S -S- run #1 job 6 Req #45  Running DSK:(PJ)PAM.HGH
+02:38:12 P Processor Interlock Busy (10)
+02:38:19 S -R- run #2 job 1 <0> Done$End
+02:39:09 S Signing off.
+ 6 <0> Done$End
+06:01:31 S ** 23-Nov-86 XEXEC %1(172) in frame 4 ** user OPER **
+06:01:34 P Waiting for interlock
+06:06:32 S -S- run #1 job 8 Req #137  Running DSK:(PJ)PAM.HGH
+06:06:33 P Processor Interlock Busy (10)
+06:06:37 S -R- run #1 job 8 <0> Done$End
+06:06:37 S -S- run #1 job 1 Req #136  Running DSK:(MAIL)MAILER.SAV
+06:06:40 S -R- run #1 job 1 <0> Done$End
+06:06:40 S -S- stream #1 Req #63 DSK:(MURADMIN)MAINT1.OUT=DSK:(MURADMIN)MAINT1.CMD
+07:00:02 S -S- stream #2 Req #59 DSK:(MURADMIN)MURST6.OUT=DSK:(MURADMIN)MURST6.CMD
+07:05:02 S -S- run #1 job 8 Req #139  Running DSK:(MAIL)MAILER.SAV
+07:05:03 S -R- run #1 job 8 <0> Done$End
+08:05:02 S -S- run #1 job 1 Req #140  Running DSK:(MAIL)MAILER.SAV
+08:05:03 S -R- run #1 job 1 <0> Done$End
+09:05:02 S -S- run #1 job 1 Req #141  Running DSK:(MAIL)MAILER.SAV
+09:05:03 S -R- run #1 job 1 <0> Done$End
+10:05:02 S -S- run #1 job 9 Req #142  Running DSK:(MAIL)MAILER.SAV
+10:05:05 S -R- run #1 job 9 <0> Done$End
+11:05:03 S -S- run #1 job 9 Req #143  Running DSK:(MAIL)MAILER.SAV
+11:05:05 S -R- run #1 job 9 <0> Done$End
+12:05:03 S -S- run #1 job 9 Req #144  Running DSK:(MAIL)MAILER.SAV
+12:05:06 S -R- run #1 job 9 <0> Done$End
+13:05:04 S -S- run #1 job 10 Req #145  Running DSK:(MAIL)MAILER.SAV
+13:05:09 S -R- run #1 job 10 <0> Done$End
+14:05:02 S -S- run #1 job 9 Req #146  Running DSK:(MAIL)MAILER.SAV
+14:05:05 S -R- run #1 job 9 <0> Done$End
+15:05:04 S -S- run #1 job 9 Req #147  Running DSK:(MAIL)MAILER.SAV
+15:05:06 S -R- run #1 job 9 <0> Done$End
+16:05:04 S -S- run #1 job 10 Req #148  Running DSK:(MAIL)MAILER.SAV
+16:05:07 S -R- run #1 job 10 <0> Done$End
+17:05:04 S -S- run #1 job 1 Req #149  Running DSK:(MAIL)MAILER.SAV
+17:05:08 S -R- run #1 job 1 <0> Done$End
+18:05:03 S -S- run #1 job 9 Req #150  Running DSK:(MAIL)MAILER.SAV
+18:05:06 S -R- run #1 job 9 <0> Done$End
+19:05:04 S -S- run #1 job 13 Req #151  Running DSK:(MAIL)MAILER.SAV
+19:05:07 S -R- run #1 job 13 <0> Done$End
+20:05:04 S -S- run #1 job 9 Req #152  Running DSK:(MAIL)MAILER.SAV
+20:05:07 S -R- run #1 job 9 <0> Done$End
+21:05:03 S -S- run #1 job 9 Req #153  Running DSK:(MAIL)MAILER.SAV
+21:05:05 S -R- run #1 job 9 <0> Done$End
+22:05:03 S -S- run #1 job 9 Req #154  Running DSK:(MAIL)MAILER.SAV
+22:05:05 S -R- run #1 job 9 <0> Done$End
+23:05:03 S -S- run #1 job 10 Req #155  Running DSK:(MAIL)MAILER.SAV
+23:05:05 S -R- run #1 job 10 <0> Done$End
+00:05:00 S -S- run #1 job 10 Req #156  Running DSK:(MAIL)MAILER.SAV
+02:05:04 S -S- run #1 job 8 Req #158  Running DSK:(MAIL)MAILER.SAV
+ 8 Req #157  Running DSK:(MAIL)MAILER.SAV
+02:05:06 S -R- run #1 job 8 <0> Done$End
+03:05:05 S -S- run #1 job 8 Req #159  Running DSK:(MAIL)MAILER.SAV
+03:05:07 S -R- run #1 job 8 <0> Done$End
+04:05:03 S -S- run #1 job 15 Req #160  Running DSK:(MAIL)MAILER.SAV
+04:05:07 S -R- run #1 job 15 <0> Done$End
+05:00:04 S -S- stream #3 Req #64 DSK:(MURADMIN)MAINT2.OUT=DSK:(MURADMIN)MAINT2.CMD
+05:00:10 S -S- stream #4 Req #105 DSK:(ENFETECH)ONTYME.OUT= Running DSK:(ENFETECH)ONTYME.SUB
+05:05:04 S -S- run #1 job 9 Req #161  Running DSK:(MAIL)MAILER.SAV
+05:05:06 S -R- run #1 job 9 <0> Done$End
+06:05:04 S -S- run #1 job 13 Req #162  Running DSK:(MAIL)MAILER.SAV
+06:05:06 S -R- run #1 job 13 <0> Done$End
+07:00:01 S -S- stream #5 Req #60 DSK:(MURADMIN)MURST7.OUT=DSK:(MURADMIN)MURST7.CMD
+07:05:05 S -S- run #1 job 3 Req #163  Running DSK:(MAIL)MAILER.SAV
+07:05:07 S -R- run #1 job 3 <0> Done$End
+08:05:00 S -S- run #1 job 9 Req #164  Running DSK:(MAIL)MAILER.SAV
+08:05:02 S -R- run #1 job 9 <0> Done$End
+09:05:03 S -S- run #1 job 8 Req #165  Running DSK:(MAIL)MAILER.SAV
+09:05:12 S -R- run #1 job 8 <0> Done$End
+10:05:01 S -S- run #1 job 3 Req #166  Running DSK:(MAIL)MAILER.SAV
+10:05:06 S -R- run #1 job 3 <0> Done$End
+11:05:04 S -S- run #1 job 8 Req #167  Running DSK:(MAIL)MAILER.SAV
+11:05:11 S run #1 job 8 spurious ECF-LCF:2 0
+11:07:28 S run #1 job 8 Uid 565 neq 566 sts=40004400000 que=300000000247
+11:07:28 S -R- run #1 job 8 <0> Done$End
+12:05:03 S -S- run #1 job 11 Req #168  Running DSK:(MAIL)MAILER.SAV
+12:05:07 S -R- run #1 job 11 <0> Done$End
+13:05:05 S -S- run #1 job 14 Req #169  Running DSK:(MAIL)MAILER.SAV
+13:05:15 S -R- run #1 job 14 <0> Done$End
+14:05:04 S -S- run #1 job 21 Req #170  Running DSK:(MAIL)MAILER.SAV
+14:05:08 S -R- run #1 job 21 <0> Done$End
+15:05:03 S -S- run #1 job 18 Req #171  Running DSK:(MAIL)MAILER.SAV
+15:05:06 S -R- run #1 job 18 <0> Done$End
+16:05:06 S -S- run #1 job 34 Req #172  Running DSK:(MAIL)MAILER.SAV
+16:05:15 S -R- run #1 job 34 <0> Done$End
+16:06:04 S -S- stream #6 Req #173 DSK:(CHAPMAN)ANNOUT=DSK:(CHAPMAN)ANNCOM
+17:05:04 S -S- run #1 job 33 Req #174  Running DSK:(MAIL)MAILER.SAV
+17:05:06 S -R- run #1 job 33 <0> Done$End
+18:05:04 S -S- run #1 job 27 Req #175  Running DSK:(MAIL)MAILER.SAV
+18:05:07 S -R- run #1 job 27 <0> Done$End
+19:05:04 S -S- run #1 job 35 Req #178  Running DSK:(MAIL)MAILER.SAV
+19:05:06 S -R- run #1 job 35 <0> Done$End
+20:05:01 S -S- run #1 job 32 Req #180  Running DSK:(MAIL)MAILER.SAV
+21:05:08 S -R- run #1 job 26 <0> Done$End
+ing DSK:(MAIL)MAILER.SAV
+22:05:01 S -S- run #1 job 13 Req #182  Running DSK:(MAIL)MAILER.SAV
+22:05:03 S -R- run #1 job 13 <0> Done$End
+23:05:05 S -S- run #1 job 8 Req #183  Running DSK:(MAIL)MAILER.SAV
+23:05:07 S -R- run #1 job 8 <0> Done$End
+00:05:01 S -S- run #1 job 13 Req #184  Running DSK:(MAIL)MAILER.SAV
+00:05:04 S -R- run #1 job 13 <0> Done$End
+01:05:03 S -S- run #1 job 9 Req #185  Running DSK:(MAIL)MAILER.SAV
+01:05:06 S -R- run #1 job 9 <0> Done$End
+02:05:03 S -S- run #1 job 19 Req #186  Running DSK:(MAIL)MAILER.SAV
+02:05:07 S -R- run #1 job 19 <0> Done$End
+03:05:03 S -S- run #1 job 19 Req #187  Running DSK:(MAIL)MAILER.SAV
+03:05:05 S -R- run #1 job 19 <0> Done$End
+04:00:06 S -S- stream #7 Req #179 DSK:(DCSOPEN)GTW.LOG=DSK:(DCSOPEN)CLMRR2.COM
+04:05:04 S -S- run #1 job 21 Req #188  Running DSK:(MAIL)MAILER.SAV
+04:05:07 S -R- run #1 job 21 <0> Done$End
+05:00:05 S -S- stream #8 Req #177 DSK:(DCSOPEN)END2.LOG=DSK:(DCSOPEN)END2.DAY
+05:05:05 S -S- run #1 job 18 Req #189  Running DSK:(MAIL)MAILER.SAV
+05:05:10 S -R- run #1 job 18 <0> Done$End
+06:00:05 S -S- stream #9 Req #114 DSK:(MURADMIN)MAINT0.OUT=DSK:(MURADMIN)MAINT0.CMD
+06:05:05 S -S- run #1 job 19 Req #190  Running DSK:(MAIL)MAILER.SAV
+06:05:09 S run #1 job 19 spurious ECF-LCF:2 0
+06:06:05 S run #1 job 19 Uid 1470 neq 1471 sts=440244400000 que=300000000276
+06:06:05 S -R- run #1 job 19 <0> Done$End
+07:05:05 S -S- run #1 job 16 Req #191  Running DSK:(MAIL)MAILER.SAV
+07:05:08 S -R- run #1 job 16 <0> Done$End
+08:05:01 S -S- run #1 job 18 Req #192  Running DSK:(MAIL)MAILER.SAV
+08:05:03 S -R- run #1 job 18 <0> Done$End
+09:05:01 S -S- run #1 job 16 Req #193  Running DSK:(MAIL)MAILER.SAV
+09:05:05 S -R- run #1 job 16 <0> Done$End
+10:05:02 S -S- run #1 job 22 Req #194  Running DSK:(MAIL)MAILER.SAV
+10:05:05 S -R- run #1 job 22 <0> Done$End
+11:05:04 S -S- run #1 job 12 Req #195  Running DSK:(MAIL)MAILER.SAV
+11:05:07 S -R- run #1 job 12 <0> Done$End
+12:05:06 S -S- run #1 job 14 Req #196  Running DSK:(MAIL)MAILER.SAV
+12:05:24 S -R- run #1 job 14 <0> Done$End
+13:05:06 S -S- run #1 job 43 Req #197  Running DSK:(MAIL)MAILER.SAV
+13:05:10 S -R- run #1 job 43 <0> Done$End
+14:05:05 S -S- run #1 job 34 Req #198  Running DSK:(MAIL)MAILER.SAV
+14:05:09 S -R- run #1 job 34 <0> Done$End
+15:37:22 S -S- run #1 job 40 Req #199  Running DSK:(MAIL)MAILER.SAV
+15:37:30 S -R- run #1 job 40 <0> Done$End
+16:05:04 S -S- run #1 job 29 Req #200  Running DSK:(MAIL)MAILER.SAV
+16:05:06 S -R- run #1 job 29 <0> Done$End
+17:05:05 S -R- run #1 job 40 <0> Done$End
+ing DSK:(MAIL)MAILER.SAV
+18:05:03 S -S- run #1 job 18 Req #202  Running DSK:(MAIL)MAILER.SAV
+18:05:08 S -R- run #1 job 18 <0> Done$End
+19:05:05 S -S- run #1 job 18 Req #205  Running DSK:(MAIL)MAILER.SAV
+19:05:16 S -R- run #1 job 18 <0> Done$End
+20:05:05 S -S- run #1 job 29 Req #206  Running DSK:(MAIL)MAILER.SAV
+20:05:11 S -R- run #1 job 29 <0> Done$End
+21:05:05 S -S- run #1 job 11 Req #207  Running DSK:(MAIL)MAILER.SAV
+21:05:08 S -R- run #1 job 11 <0> Done$End
+22:05:05 S -S- run #1 job 13 Req #208  Running DSK:(MAIL)MAILER.SAV
+22:05:10 S -R- run #1 job 13 <0> Done$End
+23:05:00 S -S- run #1 job 13 Req #209  Running DSK:(MAIL)MAILER.SAV
+23:05:03 S -R- run #1 job 13 <0> Done$End
+00:05:01 S -S- run #1 job 6 Req #210  Running DSK:(MAIL)MAILER.SAV
+00:05:02 S -R- run #1 job 6 <0> Done$End
+01:05:01 S -S- run #1 job 14 Req #211  Running DSK:(MAIL)MAILER.SAV
+01:05:03 S -R- run #1 job 14 <0> Done$End
+02:05:02 S -S- run #1 job 12 Req #212  Running DSK:(MAIL)MAILER.SAV
+02:05:05 S -R- run #1 job 12 <0> Done$End
+03:05:01 S -S- run #1 job 15 Req #213  Running DSK:(MAIL)MAILER.SAV
+03:05:02 S -R- run #1 job 15 <0> Done$End
+04:05:03 S -S- run #1 job 16 Req #214  Running DSK:(MAIL)MAILER.SAV
+04:05:05 S -R- run #1 job 16 <0> Done$End
+05:05:02 S -S- run #1 job 21 Req #215  Running DSK:(MAIL)MAILER.SAV
+05:05:05 S -R- run #1 job 21 <0> Done$End
+06:05:02 S -S- run #1 job 12 Req #216  Running DSK:(MAIL)MAILER.SAV
+06:05:06 S -R- run #1 job 12 <0> Done$End
+07:05:02 S -S- run #1 job 18 Req #217  Running DSK:(MAIL)MAILER.SAV
+07:05:04 S -R- run #1 job 18 <0> Done$End
+08:05:04 S -S- run #1 job 8 Req #218  Running DSK:(MAIL)MAILER.SAV
+08:05:06 S -R- run #1 job 8 <0> Done$End
+09:05:04 S -S- run #1 job 15 Req #219  Running DSK:(MAIL)MAILER.SAV
+09:05:09 S -R- run #1 job 15 <0> Done$End
+10:05:01 S -S- run #1 job 20 Req #220  Running DSK:(MAIL)MAILER.SAV
+10:05:04 S -R- run #1 job 20 <0> Done$End
+11:05:01 S -S- run #1 job 40 Req #221  Running DSK:(MAIL)MAILER.SAV
+11:05:09 S -R- run #1 job 40 <0> Done$End
+12:05:00 S -S- run #1 job 15 Req #222  Running DSK:(MAIL)MAILER.SAV
+12:05:05 S -R- run #1 job 15 <0> Done$End
+13:05:03 S -S- run #1 job 63 Req #223  Running DSK:(MAIL)MAILER.SAV
+13:05:08 S run #1 job 63 spurious ECF-LCF:2 0
+13:37:15 S run #1 job 63 Uid 2851 neq 2887 sts=440244400000 que=300000000337
+13:37:16 S -R- run #1 job 63 <0> Done$End
+14:05:02 S -S- run #1 job 15 Req #224  Running DSK:(MAIL)MAILER.SAV
+14:05:06 S -R- run #1 job 15 <0> Done$End
+17:05:02 S -S- run #1 job 34 Req #228  Running DSK:(MAIL)MAILER.SAV
+21 Req #227  Running DSK:(MAIL)MAILER.SAV
+17:05:04 S -R- run #1 job 34 <0> Done$End
+18:05:02 S -S- run #1 job 21 Req #229  Running DSK:(MAIL)MAILER.SAV
+18:05:04 S -R- run #1 job 21 <0> Done$End
+19:05:03 S -S- run #1 job 9 Req #230  Running DSK:(MAIL)MAILER.SAV
+19:05:05 S -R- run #1 job 9 <0> Done$End
+20:05:03 S -S- run #1 job 8 Req #234  Running DSK:(MAIL)MAILER.SAV
+20:05:06 S -R- run #1 job 8 <0> Done$End
+21:05:03 S -S- run #1 job 42 Req #236  Running DSK:(MAIL)MAILER.SAV
+21:05:07 S -R- run #1 job 42 <0> Done$End
+22:05:03 S -S- run #1 job 37 Req #237  Running DSK:(MAIL)MAILER.SAV
+22:05:04 S -R- run #1 job 37 <0> Done$End
+23:05:03 S -S- run #1 job 15 Req #238  Running DSK:(MAIL)MAILER.SAV
+23:05:05 S -R- run #1 job 15 <0> Done$End
+00:05:03 S -S- run #1 job 14 Req #239  Running DSK:(MAIL)MAILER.SAV
+00:05:05 S -R- run #1 job 14 <0> Done$End
+00:21:37 S ** 27-Nov-86 XEXEC %1(200) in frame 4 ** user OPER **
+00:21:39 P Waiting for interlock
+00:21:39 S Given interlock
+00:21:40 P Got interlock
+00:21:40 P EXECX Job Processor %1(174) starting in frame 15
+00:21:40 S Starting job processor in frame 15
+00:21:41 P Stream #1 Req #63 DSK:(MURADMIN)MAINT1.OUT=DSK:(MURADMIN)MAINT1.CMD
+00:21:41 P Stream #2 Req #59 DSK:(MURADMIN)MURST6.OUT=DSK:(MURADMIN)MURST6.CMD
+00:21:42 P Stream #3 Req #64 DSK:(MURADMIN)MAINT2.OUT=DSK:(MURADMIN)MAINT2.CMD
+00:21:43 P Stream #4 Req #105 DSK:(ENFETECH)ONTYME.OUT= Running DSK:(ENFETECH)ONTYME.SUB
+00:21:44 P Stream #5 Req #60 DSK:(MURADMIN)MURST7.OUT=DSK:(MURADMIN)MURST7.CMD
+00:21:45 P Stream #4 Req #105 * completed *
+00:21:47 S -R- stream #4 Done-End <0>
+00:21:48 P Stream #6 Req #173 DSK:(CHAPMAN)ANNOUT=DSK:(CHAPMAN)ANNCOM
+00:21:48 S -S- stream #4 Req #63 DSK:(MURADMIN)MAINT1.OUT=DSK:(MURADMIN)MAINT1.CMD
+00:21:49 P Stream #4 file enter error (104) DSK:(MURADMIN)MAINT1.CMD
+00:21:50 P Stream #4 JobExit: 5,5
+00:21:51 P Stream #7 Req #179 DSK:(DCSOPEN)GTW.LOG=DSK:(DCSOPEN)CLMRR2.COM
+00:21:52 P ** invalid stream #4 **
+00:21:54 P Stream #8 Req #177 DSK:(DCSOPEN)END2.LOG=DSK:(DCSOPEN)END2.DAY
+00:21:55 P ** invalid stream #4 **
+00:21:56 S -R- stream #4 Abort-Enter <0>
+00:21:57 S -S- stream #4 Req #59 DSK:(MURADMIN)MURST6.OUT=DSK:(MURADMIN)MURST6.CMD
+00:21:58 P Stream #9 Req #114 DSK:(MURADMIN)MAINT0.OUT=DSK:(MURADMIN)MAINT0.CMD
+00:21:58 P ** invalid stream #4 **
+00:22:00 P Stream #4 file enter error (104) DSK:(MURADMIN)MURST6.CMD
+00:22:00 P Stream #4 JobExit: 5,5
+00:22:06 S -R- stream #4 Abort-Enter <0>
+00:22:09 P Stream #4 file enter error (104) DSK:(MURADMIN)MAINT2.CMD
+N)MAINT2.CMD
+00:22:10 P Stream #4 JobExit: 5,5
+00:22:16 S -R- stream #4 Abort-Enter <0>
+00:22:18 S -S- stream #4 Req #60 DSK:(MURADMIN)MURST7.OUT=DSK:(MURADMIN)MURST7.CMD
+00:22:19 P Stream #4 file enter error (104) DSK:(MURADMIN)MURST7.CMD
+00:22:20 P Stream #4 JobExit: 5,5
+00:22:25 S -R- stream #4 Abort-Enter <0>
+00:22:27 S -S- stream #4 Req #114 DSK:(MURADMIN)MAINT0.OUT=DSK:(MURADMIN)MAINT0.CMD
+00:22:28 P Stream #4 file enter error (104) DSK:(MURADMIN)MAINT0.CMD
+00:22:29 P Stream #4 JobExit: 5,5
+00:22:37 S -R- stream #4 Abort-Enter <0>
+00:22:38 S -S- stream #4 Req #54 DSK:(MURADMIN)MURST1.OUT=DSK:(MURADMIN)MURST1.CMD
+00:22:40 P Stream #4 Req #54 DSK:(MURADMIN)MURST1.OUT=DSK:(MURADMIN)MURST1.CMD
+00:23:11 P Stream #1 Req #63 * completed *
+00:23:12 P Stream #6 Req #173 * completed *
+00:23:13 P Stream #9 Req #114 * completed *
+00:23:14 S -R- stream #1 Done-End <0>
+00:23:17 S -R- stream #6 Done-End <0>
+00:23:21 S -R- stream #9 Done-End <0>
+00:23:23 S -S- stream #1 Req #55 DSK:(MURADMIN)MURST2.OUT=DSK:(MURADMIN)MURST2.CMD
+00:23:26 P Stream #1 Req #55 DSK:(MURADMIN)MURST2.OUT=DSK:(MURADMIN)MURST2.CMD
+00:23:53 P Stream #8 Req #177 * completed *
+00:23:58 S -R- stream #8 Done-End <0>
+00:59:35 P Stream #5 Req #60 * completed *
+00:59:37 S -R- stream #5 Done-End <0>
+00:59:56 P Stream #4 Req #54 * completed *
+01:00:02 S -R- stream #4 Done-End <0>
+01:00:17 P Stream #1 Req #55 * completed *
+01:00:20 S -R- stream #1 Done-End <0>
+01:05:01 S -S- run #1 job 6 Req #240  Running DSK:(MAIL)MAILER.SAV
+01:05:05 S -R- run #1 job 6 Done-End <0>
+01:07:59 P Stream #3 Req #64 * completed *
+01:08:01 S -R- stream #3 Done-End <0>
+01:10:26 P Stream #2 Req #59 * completed *
+01:10:32 S -R- stream #2 Done-End <0>
+02:00:02 S -S- stream #1 Req #231 DSK:(DCSOPEN)GTW.LOG=DSK:(DCSOPEN)END2.DAY
+02:00:02 P Stream #1 file enter error (104) DSK:(DCSOPEN)END2.DAY
+02:00:03 P Stream #1 JobExit: 5,5
+02:00:08 S -R- stream #1 Abort-Enter <0>
+02:05:02 S -S- run #1 job 3 Req #247  Running DSK:(MAIL)MAILER.SAV
+02:05:04 S -R- run #1 job 3 Done-End <0>
+02:15:00 S -S- stream #1 Req #235 DSK:(DCSOPEN)PHDPRG.LOG=DSK:(DCSOPEN)PHDPRG.CMD
+02:15:01 P Stream #1 Req #235 DSK:(DCSOPEN)PHDPRG.LOG=DSK:(DCSOPEN)PHDPRG.CMD
+02:30:00 S -S- stream #2 Req #232 DSK:(DCSOPEN)GTW.LOG=DSK:(DCSOPEN)CLMRR2.COM
+02:30:01 P Stream #2 file enter error (104) DSK:(DCSOPEN)CLMRR2.COM
+02:30:01 P Stream #2 JobExit: 5,5
+02:30:07 S -R- stream #2 Abort-Enter <0>
+03:03:50 P Stream #1 Req #235 * completed *
+03:05:01 S -R- run #1 job 6 Done-End <0>
+ing DSK:(MAIL)MAILER.SAV
+04:05:02 S -S- run #1 job 14 Req #251  Running DSK:(MAIL)MAILER.SAV
+04:35:22 S ** 27-Nov-86 XEXEC %1(200) in frame 4 ** user OPER **
+04:35:24 S -R- stream #7 Proc-Run <1>
+04:35:25 S -S- run #1 job 5 Req #138  Running DSK:(PJ)PAM.HGH
+04:35:31 S -S- run #2 job 1 Req #251  Running DSK:(MAIL)MAILER.SAV
+04:35:33 S -R- run #2 job 1 Done-End <0>
+05:00:04 S -S- stream #1 Req #241 DSK:(ENFETECH)ONTYME.OUT= Running DSK:(ENFETECH)ONTYME.SUB
+05:00:12 P Waiting for interlock
+05:00:12 S Given interlock
+05:00:13 P Got interlock
+05:00:13 P EXECX Job Processor %1(174) starting in frame 6
+05:00:13 S Starting job processor in frame 6
+05:00:14 P Stream #1 Req #241 DSK:(ENFETECH)ONTYME.OUT= Running DSK:(ENFETECH)ONTYME.SUB
+05:00:15 P Stream #1 Req #241 * completed *
+05:00:19 S -R- stream #1 Done-End <0>
+05:05:04 S -S- run #2 job 8 Req #252  Running DSK:(MAIL)MAILER.SAV
+05:05:06 S -R- run #2 job 8 Done-End <0>
+06:00:04 S -S- stream #1 Req #243 DSK:(MURADMIN)MAINT0.OUT=DSK:(MURADMIN)MAINT0.CMD
+06:00:09 P Stream #1 Req #243 DSK:(MURADMIN)MAINT0.OUT=DSK:(MURADMIN)MAINT0.CMD
+06:00:58 P Stream #1 Req #243 * completed *
+06:01:00 S -R- stream #1 Done-End <0>
+06:05:03 S -S- run #2 job 1 Req #254  Running DSK:(MAIL)MAILER.SAV
+06:05:05 S -R- run #2 job 1 Done-End <0>
+07:00:03 S -S- stream #1 Req #56 DSK:(MURADMIN)MURST3.OUT=DSK:(MURADMIN)MURST3.CMD
+07:00:08 P Stream #1 Req #56 DSK:(MURADMIN)MURST3.OUT=DSK:(MURADMIN)MURST3.CMD
+07:10:16 P Stream #1 Req #56 * completed *
+07:10:19 S -R- stream #1 Done-End <0>
+21:12:46 S -S- stream #1 Req #259 DSK:(JMS)FNDBAD.LOG=DSK:(JMS)FNDBAD.CTL
+21:12:51 P Stream #1 Req #259 DSK:(JMS)FNDBAD.LOG=DSK:(JMS)FNDBAD.CTL
+21:15:55 P Stream #1 Req #259 * completed *
+21:15:57 S -R- stream #1 Done-End <0>
+05:00:03 S -S- stream #1 Req #253 DSK:(ENFETECH)ONTYME.OUT= Running DSK:(ENFETECH)ONTYME.SUB
+05:00:08 P Stream #1 Req #253 DSK:(ENFETECH)ONTYME.OUT= Running DSK:(ENFETECH)ONTYME.SUB
+05:00:09 P Stream #1 Req #253 * completed *
+05:00:14 S -R- stream #1 Done-End <0>
+06:00:03 S -S- stream #1 Req #255 DSK:(MURADMIN)MAINT0.OUT=DSK:(MURADMIN)MAINT0.CMD
+06:00:08 P Stream #1 Req #255 DSK:(MURADMIN)MAINT0.OUT=DSK:(MURADMIN)MAINT0.CMD
+06:00:57 P Stream #1 Req #255 * completed *
+06:00:59 S -R- stream #1 Done-End <0>
+07:00:03 S -S- stream #1 Req #74 DSK:(MURADMIN)MURST4.OUT=DSK:(MURADMIN)MURST4.CMD
+07:00:08 P Stream #1 Req #74 DSK:(MURADMIN)MURST4.OUT=DSK:(MURADMIN)MURST4.CMD
+07:09:12 P Stream #1 Req #74 * completed *
+08:13:09 P Stream #1 Req #258 DSK:(JMS)FNDBAD.LOG=DSK:(JMS)FNDBAD.CTL
+8 DSK:(JMS)FNDBAD.LOG=DSK:(JMS)FNDBAD.CTL
+08:16:04 P Stream #1 Req #258 * completed *
+08:16:04 S -R- stream #1 Done-End <0>
+06:00:01 S -S- stream #1 Req #261 DSK:(MURADMIN)MAINT0.OUT=DSK:(MURADMIN)MAINT0.CMD
+06:00:06 S -S- stream #2 Req #233 DSK:(DCSOPEN)PRGAPL.LOG=DSK:(DCSOPEN)APLINP.PRG
+06:00:06 P Stream #1 Req #261 DSK:(MURADMIN)MAINT0.OUT=DSK:(MURADMIN)MAINT0.CMD
+06:00:07 P Stream #2 Req #233 DSK:(DCSOPEN)PRGAPL.LOG=DSK:(DCSOPEN)APLINP.PRG
+06:00:59 P Stream #1 Req #261 * completed *
+06:01:03 S -R- stream #1 Done-End <0>
+07:00:03 S -S- stream #1 Req #117 DSK:(MURADMIN)MURST5.OUT=DSK:(MURADMIN)MURST5.CMD
+07:00:08 P Stream #1 Req #117 DSK:(MURADMIN)MURST5.OUT=DSK:(MURADMIN)MURST5.CMD
+07:11:00 P Stream #1 Req #117 * completed *
+07:11:04 S -R- stream #1 Done-End <0>
+08:13:05 S -S- stream #1 Req #263 DSK:(JMS)FNDBAD.LOG=DSK:(JMS)FNDBAD.CTL
+08:13:10 P Stream #1 Req #263 DSK:(JMS)FNDBAD.LOG=DSK:(JMS)FNDBAD.CTL
+08:16:34 P Stream #1 Req #263 * completed *
+08:16:34 S -R- stream #1 Done-End <0>
+08:27:10 P Stream #2 Req #233 * completed *
+08:27:11 S -R- stream #2 Done-End <0>
+01:59:10 P Signing off.
+01:59:10 S Signing off.
+04:44:08 S ** 30-Nov-86 XEXEC %1(200) in frame 4 ** user OPER **
+04:44:08 S -R- run #1 job 5 Proc-Run <1>
+06:00:03 S -S- stream #1 Req #242 DSK:(MURADMIN)MAINT1.OUT=DSK:(MURADMIN)MAINT1.CMD
+06:00:09 P Waiting for interlock
+06:00:10 S Given interlock
+06:00:10 P Got interlock
+06:00:10 P EXECX Job Processor %1(200) starting in frame 6
+06:00:11 S Starting job processor in frame 6
+06:00:11 P Stream #1 Req #242 DSK:(MURADMIN)MAINT1.OUT=DSK:(MURADMIN)MAINT1.CMD
+06:01:02 P Stream #1 Req #242 * completed *
+06:01:08 S -R- stream #1 Done-End <0>
+06:16:10 P Signing off.
+07:00:00 S -S- stream #1 Req #249 DSK:(MURADMIN)MURST6.OUT=DSK:(MURADMIN)MURST6.CMD
+07:00:06 P Waiting for interlock
+07:00:07 S Given interlock
+07:00:08 P Got interlock
+07:00:08 P EXECX Job Processor %1(200) starting in frame 6
+07:00:08 S Starting job processor in frame 6
+07:00:08 P Stream #1 Req #249 DSK:(MURADMIN)MURST6.OUT=DSK:(MURADMIN)MURST6.CMD
+07:08:56 P Stream #1 Req #249 * completed *
+07:08:58 S -R- stream #1 Done-End <0>
+07:24:07 P Signing off.
+08:13:03 S -S- stream #1 Req #266 DSK:(JMS)FNDBAD.LOG=DSK:(JMS)FNDBAD.CTL
+08:13:09 P Waiting for interlock
+08:13:10 S Given interlock
+08:13:10 P Got interlock
+08:13:10 P EXECX Job Processor %1(200) starting in frame 6
+08:13:11 S Starting job processor in frame 6
+08:15:27 P Stream #1 Req #266 * completed *
+08:31:10 P Signing off.
+Done-End <0>
+15:49:21 S ** 02-Dec-86 XEXEC %1(200) in frame 19 ** user OPER **
+15:49:22 S -S- stream #1 Req #269 DSK:(JMS)FNDBAD.LOG=DSK:(JMS)FNDBAD.CTL
+15:49:30 P Waiting for interlock
+15:49:31 S Given interlock
+15:49:31 P Got interlock
+15:49:32 P EXECX Job Processor %1(200) starting in frame 4
+15:49:32 S Starting job processor in frame 4
+15:49:32 S -S- stream #2 Req #274 DSK:(MURADMIN)MURST7.OUT=DSK:(MURADMIN)MURST7.CMD
+15:49:33 P Stream #1 Req #269 DSK:(JMS)FNDBAD.LOG=DSK:(JMS)FNDBAD.CTL
+15:49:34 P Stream #2 Req #274 DSK:(MURADMIN)MURST7.OUT=DSK:(MURADMIN)MURST7.CMD
+15:49:38 S -S- stream #3 Req #273 DSK:(LCREST)TASKS.LOG=DSK:(LCREST)TASKS
+15:49:41 P Stream #3 Req #273 DSK:(LCREST)TASKS.LOG=DSK:(LCREST)TASKS
+15:49:44 S -S- stream #4 Req #264 DSK:(MURADMIN)MAINT0.OUT=DSK:(MURADMIN)MAINT0.CMD
+15:49:45 P Stream #4 Req #264 DSK:(MURADMIN)MAINT0.OUT=DSK:(MURADMIN)MAINT0.CMD
+15:49:51 S -S- stream #5 Req #245 DSK:(MURADMIN)MURST1.OUT=DSK:(MURADMIN)MURST1.CMD
+15:49:52 P Stream #3 Req #273 * aborted - :ERROR in job at line 3 *
+15:49:55 P Stream #5 Req #245 DSK:(MURADMIN)MURST1.OUT=DSK:(MURADMIN)MURST1.CMD
+15:49:57 S -R- stream #3 Done-Error <0>
+15:50:42 P Stream #4 Req #264 * completed *
+15:50:45 S -R- stream #4 Done-End <0>
+15:53:30 P Stream #1 Req #269 * completed *
+15:53:31 S -R- stream #1 Done-End <0>
+16:07:55 P Stream #5 Req #245 * completed *
+16:07:59 S -R- stream #5 Done-End <0>
+16:13:51 P Stream #2 Req #274 * completed *
+16:13:56 S -R- stream #2 Done-End <0>
+16:29:36 P Signing off.
+04:00:04 S -S- stream #1 Req #277 DSK:(DCSOPEN)ENDDAY.LOG=DSK:(DCSOPEN)ENDDAY.CMD
+04:00:11 P Waiting for interlock
+04:00:11 S Given interlock
+04:00:12 P Got interlock
+04:00:12 P EXECX Job Processor %1(200) starting in frame 20
+04:00:13 S Starting job processor in frame 20
+04:00:13 P Stream #1 Req #277 DSK:(DCSOPEN)ENDDAY.LOG=DSK:(DCSOPEN)ENDDAY.CMD
+04:02:50 P Stream #1 Req #277 * completed *
+04:02:56 S -R- stream #1 Done-End <0>
+04:18:12 P Signing off.
+04:30:05 S -S- stream #1 Req #278 DSK:(DCSOPEN)GTW1.LOG=DSK:(DCSOPEN)CLMRR.CMD
+04:30:13 P Waiting for interlock
+04:30:13 S Given interlock
+04:30:14 P Got interlock
+04:30:14 P EXECX Job Processor %1(200) starting in frame 17
+04:30:15 S Starting job processor in frame 17
+04:30:16 P Stream #1 Req #278 DSK:(DCSOPEN)GTW1.LOG=DSK:(DCSOPEN)CLMRR.CMD
+05:00:00 S -S- stream #2 Req #279 DSK:(LCREST)TASKS.LOG=DSK:(LCREST)TASKS
+05:00:06 P Stream #2 Req #279 DSK:(LCREST)TASKS.LOG=DSK:(LCREST)TASKS
+05:00:14 S -R- stream #2 Done-Error <0>
+05:17:07 S -R- stream #1 Done-End <0>
+ed *
+05:32:15 P Signing off.
+06:00:01 S -S- stream #1 Req #280 DSK:(MURADMIN)MAINT0.OUT=DSK:(MURADMIN)MAINT0.CMD
+06:00:09 P Waiting for interlock
+06:00:09 S Given interlock
+06:00:10 P Got interlock
+06:00:10 S Starting job processor in frame 4
+06:00:10 P EXECX Job Processor %1(200) starting in frame 4
+06:00:11 P Stream #1 Req #280 DSK:(MURADMIN)MAINT0.OUT=DSK:(MURADMIN)MAINT0.CMD
+06:01:08 P Stream #1 Req #280 * completed *
+06:01:11 S -R- stream #1 Done-End <0>
+06:17:10 P Signing off.
+07:00:02 S -S- stream #1 Req #246 DSK:(MURADMIN)MURST2.OUT=DSK:(MURADMIN)MURST2.CMD
+07:00:09 P Waiting for interlock
+07:00:10 S Given interlock
+07:00:10 P Got interlock
+07:00:10 P EXECX Job Processor %1(200) starting in frame 6
+07:00:11 S Starting job processor in frame 6
+07:00:11 P Stream #1 Req #246 DSK:(MURADMIN)MURST2.OUT=DSK:(MURADMIN)MURST2.CMD
+07:12:11 P Stream #1 Req #246 * completed *
+07:12:17 S -R- stream #1 Done-End <0>
+07:28:11 P Signing off.
+08:13:04 S -S- stream #1 Req #281 DSK:(JMS)FNDBAD.LOG=DSK:(JMS)FNDBAD.CTL
+08:13:12 P Waiting for interlock
+08:13:13 S Given interlock
+08:13:14 P Got interlock
+08:13:14 P EXECX Job Processor %1(200) starting in frame 28
+08:13:15 S Starting job processor in frame 28
+08:13:16 P Stream #1 Req #281 DSK:(JMS)FNDBAD.LOG=DSK:(JMS)FNDBAD.CTL
+08:17:59 P Stream #1 Req #281 * completed *
+08:18:03 S -R- stream #1 Done-End <0>
+08:33:15 P Signing off.
+ 8@uá
